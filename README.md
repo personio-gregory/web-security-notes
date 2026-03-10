@@ -8,16 +8,12 @@ This repository contains comprehensive notes and practical explanations of commo
 
 ## Topics Covered
 
-- **SQL Injection** - Understanding SQL injection attacks and prevention techniques
-- **Cross-Site Scripting (XSS)** - DOM-based, Reflected, and Stored XSS vulnerabilities
-- **Cross-Site Request Forgery (CSRF)** - Protecting against unauthorized requests
-- **Authentication & Session Management** - Secure implementation practices
-- **Authorization & Access Control** - Proper permission enforcement
-- **Sensitive Data Exposure** - Data protection and encryption
-- **Security Misconfiguration** - Best practices and hardening
-- **Vulnerable Dependencies** - Managing and updating dependencies securely
-- **Broken Cryptography** - Proper use of cryptographic algorithms
-- **OWASP Top 10** - In-depth coverage of current threats
+- SQL Injection
+- Cross-Site Scripting (XSS)
+- Cross-Site Request Forgery (CSRF)
+- IDOR / Broken Access Control
+- Authentication & Session Security
+- Sensitive Data Exposure
 
 ## How to Use This Repository
 
